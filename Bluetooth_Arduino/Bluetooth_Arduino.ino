@@ -1,5 +1,4 @@
 /*Code to control an LED via bluetooth through a phone app.
-Project  by MukeshArvindh. Code by MukeshArvindh.*/
 
 /*If you are going to copy and  paste the code, then do not forget 
 to delete the void setup() and void loop()  function from the 
