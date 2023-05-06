@@ -11,7 +11,7 @@ proven to be accurate. The product also works as intended.*/
 
 //Bluetooth  uses serial communication. So, we use many serial functions 
 //in this sketch.  
-const int LED = 5;
+const int LED = 13;
 /*Declaring that there is an LED on pin 5 of the arduino  board. We use 
 const as we will not change this. You don't have to name it LED.  You 
 can even put your name instead.*/
